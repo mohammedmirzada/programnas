@@ -1,0 +1,387 @@
+/* Smartphones (portrait and landscape) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+	._LogoHeader{
+		background-image: url(/control/template/media/svg/logo_two.svg);
+		background-size: 120px;
+		width: 60px;
+		height: 32px;
+		background-position: -36px -20px;
+	}
+	#HideListSS{
+		display: none;
+	}
+	#_reverseItMob_{
+		flex-direction: column;
+	}
+	.box-finding-content{
+		width: 100%;
+		left: 0;
+	}
+	body{
+		margin: 60px 0 0 0;
+	}
+	#textSizeFrU{
+		font-size:12px;
+	}
+	#column-mob-footer{
+		flex-direction: column;
+	}
+	#_reverse_answer_coins{
+		flex-direction: column;
+	}
+	#column-multi-side{
+		flex-direction: column;
+	}
+	.acc-s-side{
+		border-top: 1px solid #00194612;
+		border-left: 0;
+		border-right: 0;
+		border-radius: 0;
+	}
+	.programnas-second-logo{
+		display: none;
+	}
+	#mob_column_and_rev{
+		flex-direction: column-reverse;
+	}
+	.href-sett-logout{
+		position: unset;
+	}
+	.butt-add-payemnt{
+		display: block;
+		margin: 6px 4px 6px 4px;
+		width: 100%;
+	}
+	.styleModalProCHange{
+		left: 0;
+		width: 100%;
+	}
+	._bg-payments{
+		width: 90%;
+		margin: 12px;
+	}
+	.butt-list-payemnt{
+		width: 100%;
+		background-position: center;
+		margin: 6px 0px 30px 0px;
+	}
+	._href_ask_into_que{
+		float: unset;
+		width: 50%;
+		display: block;
+		text-align: center;
+	}
+	.bg_img_que_view{
+		height: 100px;
+	}
+	#height_show_img{
+		margin-top: 50%;
+		height: auto;
+	}
+	.trueing_tool_que{
+		width: 20%;
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+	.logo-1-adv{
+		background-size: 230px;
+		width: 212px;
+		height: 72px;
+	}
+	.logo-2-adv{
+		height: 24px;
+		width: 2px;
+		top: -40px;
+		left: 0;
+	}
+	.logo-3-adv{
+		background-size: 230px;
+		width: 20px;
+		height: 72px;
+		background-position-x: -215px; 
+	}
+	.erbil-image, .slemani-image, .duhok-image, .rwandz-image{
+		background-position-y: 0;
+	}
+	._class_blog_new{
+		width: 280px;
+		margin: 0;
+	}
+	._img_class_blog{
+		width: 270px;
+	}
+	.logo_blog_header{
+		background-size: 60px;
+		width: 60px;
+		height: 40px;
+		margin: 0;
+	}
+	._hrefs_right_header_blog{
+		position: unset;
+		top: 0;
+	}
+	.beta_ver_header{
+		right: -38px;
+		bottom: -12px;
+	}
+	#box-notify-mob{
+		top: 44px;
+        right: 0;
+	}
+	._td_table, ._th_table {
+		font-size: 10px;
+	}
+	.logo-4-adv{
+		background-size: contain;
+		width: 100%;
+		height: 230px;
+		position: unset;
+		top: unset;
+	}
+	.kurdistan_map{
+		background-size: 300px;
+		height: 230px;
+	}
+	.first_texty{
+		padding-top: 20px;
+	}
+	.href-protfl{
+    	display: block;
+    	margin: 8px 0 8px 0;
+    	border: 1px solid #dddddd7a;
+    	border-radius: 12px;
+    	padding: 12px;
+    	width: 100%;
+    	background: white;
+    	transition: 0.3s;
+	}
+	.href-img-click{
+		margin: 6px 4px 6px 4px;
+	}
+	.class-img0poster{
+		background-size: 140px;
+    	width: 140px;
+    	height: 226px;
+	}
+	.class-h6-titlename{
+		width: 140px;
+	}
+	.library_ad_class{
+    	margin: 6px 4px 6px 4px;
+    }
+    .flex-inline-vi{
+    	margin: 8px 0 8px 0;
+    	flex: 1;
+    	border-bottom: 1px solid #ffffff14;
+    	border-right: unset;
+    }
+    .flex-inline-vi:nth-child(3) {
+    	border-bottom: unset;
+    }
+    .lib__r_b{
+    	border-bottom: 1px solid #ddd;
+    	padding: 8px;
+    	margin-bottom: 8px;
+    }
+    .class_bg-di-p{
+    	margin: 8px 0 8px 0;
+    }
+    ._h1_media{
+    	font-size: 18px;
+    }
+    ._h2_media{
+    	font-size: 14px;
+    }
+}
+ 
+/* iPads (portrait and landscape) */
+@media only screen and (min-device-width : 768px) and (max-device-width : 1024px) {
+	._LogoHeader{
+		background-image: url(/control/template/media/svg/logo_two.svg);
+		background-size: 120px;
+		width: 60px;
+		height: 32px;
+		background-position: -36px -20px;
+	}
+	#HideListSS{
+		display: none;
+	}
+	#_reverseItMob_{
+		flex-direction: column;
+	}
+	.box-finding-content{
+		width: 100%;
+		left: 0;
+	}
+	body{
+		margin: 60px 0 0 0;
+	}
+	#textSizeFrU{
+		font-size:12px;
+	}
+	#column-mob-footer{
+		flex-direction: column;
+	}
+	#_reverse_answer_coins{
+		flex-direction: column;
+	}
+	#column-multi-side{
+		flex-direction: column;
+	}
+	.acc-s-side{
+		border-top: 1px solid #00194612;
+		border-left: 0;
+		border-right: 0;
+		border-radius: 0;
+	}
+	.programnas-second-logo{
+		display: none;
+	}
+	#mob_column_and_rev{
+		flex-direction: column-reverse;
+	}
+	.href-sett-logout{
+		position: unset;
+	}
+	.butt-add-payemnt{
+		display: block;
+		margin: 6px 4px 6px 4px;
+		width: 100%;
+	}
+	.styleModalProCHange{
+		left: 0;
+		width: 100%;
+	}
+	._bg-payments{
+		width: 90%;
+		margin: 12px;
+	}
+	.butt-list-payemnt{
+		width: 100%;
+		background-position: center;
+		margin: 6px 0px 30px 0px;
+	}
+	._href_ask_into_que{
+		float: unset;
+		width: 50%;
+		display: block;
+		text-align: center;
+	}
+	.bg_img_que_view{
+		height: 100px;
+	}
+	#height_show_img{
+		margin-top: 50%;
+		height: auto;
+	}
+	.trueing_tool_que{
+		width: 20%;
+		margin-left: 4px;
+		margin-right: 4px;
+	}
+	.logo-1-adv{
+		background-size: 230px;
+		width: 212px;
+		height: 72px;
+	}
+	.logo-2-adv{
+		height: 24px;
+		width: 2px;
+		top: -40px;
+		left: 0;
+	}
+	.logo-3-adv{
+		background-size: 230px;
+		width: 20px;
+		height: 72px;
+		background-position-x: -215px; 
+	}
+	.erbil-image, .slemani-image, .duhok-image, .rwandz-image{
+		background-position-y: 0;
+	}
+	._class_blog_new{
+		width: 280px;
+		margin: 0;
+	}
+	._img_class_blog{
+		width: 270px;
+	}
+	.logo_blog_header{
+		background-size: 60px;
+		width: 60px;
+		height: 40px;
+		margin: 0;
+	}
+	._hrefs_right_header_blog{
+		position: unset;
+		top: 0;
+	}
+	.beta_ver_header{
+		right: -38px;
+		bottom: -12px;
+	}
+	.logo-4-adv{
+		background-size: contain;
+		width: 100%;
+		height: 230px;
+		position: unset;
+		top: unset;
+	}
+	.href-protfl{
+    	display: block;
+    	margin: 8px 0 8px 0;
+    	border: 1px solid #dddddd7a;
+    	border-radius: 12px;
+    	padding: 12px;
+    	width: 100%;
+    	background: white;
+    	transition: 0.3s;
+	}
+	.flex-inline-vi{
+    	margin: 8px 0 8px 0;
+    	flex: 1;
+    	border-bottom: 1px solid #ffffff14;
+    	border-right: unset;
+    }
+    .flex-inline-vi:nth-child(3) {
+    	border-bottom: unset;
+    }
+}
+ 
+/* iPhone 5 (portrait and landscape) */
+@media only screen and (min-device-width : 320px) and (max-device-width : 568px) {
+	._td_table, ._th_table {
+		font-size: 8px;
+	}
+}
+
+/* Desktops and laptops */
+@media only screen and (min-width : 1224px) {
+	#MobileMenu{
+		display: none;
+	}
+	#_mob_start_{
+		display: none;
+	}
+	.NoneForMob{
+		display: block;
+	}
+	.BlockForMob{
+		display: none;
+	}
+	.adv_font{
+		font-size: 30px;
+	}
+}
+ 
+/* Large screens  */
+@media only screen and (min-width : 1824px) {
+/* STYLES GO HERE */
+}
+
+/* Standalone Mode  */
+@media all and (display-mode: standalone) {
+    #standlone_mode{
+    	display: none;
+    }
+}

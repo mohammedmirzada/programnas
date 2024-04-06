@@ -1,0 +1,92 @@
+._fixed_footer_cookies{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 10;
+    box-shadow: -3px 2px 4px 4px #00194608;
+    background-color: #2b4065;
+}
+.close_icon_menu_white_{
+	background-image: url(/control/template/media/svg/close_white.svg);
+    background-size: 22px;
+    width: 22px;
+    height: 40px;
+    background-position: center;
+}
+.fix-footer-p{
+    padding: 8px;
+    background: #343c41;
+    color: #ffffffad;
+}
+.fix-footer-p-two{
+    margin: 0 auto;
+    max-width: 1300px;
+}
+.logo-footer{
+    background-image: url(/control/template/media/png/logo_footer.png);
+    background-size: 180px;
+    width: 200px;
+    height: 28px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.href-footer-link{
+    color: #ffffff6b;
+    margin: 6px 4px 6px 4px;
+    width: max-content;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+    background-color: #ffffff14;
+    padding: 6px 12px 6px 12px;
+    border-radius: 6px;
+}
+.href-footer-link:hover{
+    background: #ffffff05;
+}
+.flex-inline-vi{
+    margin: 0px 8px 0px 8px;
+    flex: 1;
+    border-right: 1px solid #ffffff14;
+    padding: 0px 6px 0px 6px;
+}
+.flex-inline-vi:nth-child(3) {
+    border-right: unset;
+}
+._line_help-href{
+    color: #ffffff69;
+    padding: 2px 20px 2px 0px;
+    transition: 0.3s;
+    font-size: 14px;
+    display: inline-block;
+}
+._line_help-href:hover{
+    color: #ffffff;
+    text-decoration: underline;
+}
+.payments-accpted{
+    background-image: url(/control/template/media/png/payments.png);
+    background-size: 100px;
+    width: 110px;
+    height: 60px;
+    background-position-y: 10px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.store_icons{
+    background-size: 120px;
+    width: 130px;
+    height: 40px;
+}
+._lang_foot-press{
+    display: inline-block;
+    padding: 4px 10px 4px 10px;
+    margin: 0px 4px 0px 4px;
+    cursor: pointer;
+    transition: 0.3s;
+    font-size: 14px;
+    color: #fff;
+}
+._lang_foot-press:hover{
+    background: #00000021;
+}

@@ -1,0 +1,136 @@
+.img_logo_lib{
+	background-image: url(/control/template/media/svg/library_logo.svg);
+    background-size: 170px;
+    width: 200px;
+    height: 40px;
+    background-repeat: no-repeat;
+    border-left: 4px solid transparent;
+    background-position-x: 8px;
+    transition: 0.3s;
+}
+.img_logo_lib:hover{
+    border-left: 4px solid #54acbc;
+}
+.class_scroll_hori{
+    overflow-y: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+    width: 100%;
+    border: 1px solid #787a7d52;
+    border-radius: 6px;
+    padding: 8px;
+    height: 64px;
+}
+.icon_cats_lib{
+    background-size: 18px;
+    width: 18px;
+    height: 18px;
+    display: inline-block;
+    position: relative;
+    top: 4px;
+    left: 2px;
+}
+.href-img-click{
+    display: inline-block;
+    margin: 6px 12px 6px 12px;
+    text-decoration: none;
+}
+.class-img0poster{
+    background-size: 170px;
+    width: 170px;
+    height: 272px;
+    display: block;
+    border-radius: 6px;
+    transition: 0.3s;
+    border: 1px solid #ddd;
+}
+.class-img0poster:hover{
+    opacity: 0.7;
+}
+.class-h6-titlename{
+    display: block;
+    color: #444;
+    text-overflow: ellipsis;
+    overflow-x: hidden;
+    white-space: nowrap;
+    width: 170px;
+    direction: rtl;
+}
+.qa_hre_li_{
+    text-decoration: none;
+    color: #6c757d;
+    padding: 12px 8px 0px 8px;
+    border-radius: 10px;
+}
+.qa_hre_li_:hover{
+    background: #6c757d1a;
+}
+.books_list_icns{
+    background-size: 24px;
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+    position: relative;
+    top: 6px;
+    right: 4px;
+}
+.library_ad_class{
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin: 6px 12px 6px 12px;
+    border-radius: 8px;
+    position: relative;
+    top: -32px;
+}
+._header_lib_app_req{
+    padding: 6px;
+    background: #00194605;
+    border-bottom: 1px solid #0019460d;
+}
+.lb_svg_app_ic{
+    background-size: 150px;
+    width: 150px;
+    height: 44px;
+    display: inline-block;
+    background-repeat: no-repeat;
+}
+.lb_svg_tutapp_ic{
+    display: inline-block;
+    padding: 3px 8px 3px 8px;
+    border: 1px solid #ccd0d2;
+    border-radius: 8px;
+    position: relative;
+    text-decoration: unset;
+    transition: 0.2s;
+}
+.lb_svg_tutapp_ic:hover{
+    opacity: 0.6;
+}
+.apple_logo_tutr{
+    background-image: url(/control/template/media/svg/apple_logo.svg);
+    background-size: 32px;
+    width: 32px;
+    height: 32px;
+    display: inline-block;
+}
+.apple_text_tutr{
+    color: #5b5b5b;
+    position: relative;
+    top: -8px;
+    font-size: 14px;
+}
+.lib__r_b{
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    padding: 8px;
+}
+.adcash_pn{
+    display: inline-block;
+    max-width: 170px;
+    max-height: 272px;
+    border: 1px solid #ddd;
+    padding: 8px;
+    border-radius: 8px;
+    position: relative;
+    top: -36px;
+}

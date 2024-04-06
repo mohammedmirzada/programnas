@@ -1,0 +1,59 @@
+[21-Oct-2021 11:46:05 Asia/Baghdad] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 354 but got code "503", with message "503 5.5.1 RCPT first. h10sm2502874edk.41 - gsmtp
+" in /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php:457
+Stack trace:
+#0 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(341): Swift_Transport_AbstractSmtpTransport->assertResponseCode('503 5.5.1 RCPT ...', Array)
+#1 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(305): Swift_Transport_AbstractSmtpTransport->executeCommand('DATA\r\n', Array, Array, false, NULL)
+#2 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(390): Swift_Transport_EsmtpTransport->executeCommand('DATA\r\n', Array, Array)
+#3 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swi in /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 457
+[25-Apr-2022 01:36:04 Asia/Baghdad] PHP Fatal error:  Uncaught Swift_TransportException: Expected response code 354 but got code "503", with message "503 5.5.1 RCPT first. b17-20020aa7dc11000000b00412ae7fda95sm3766544edu.44 - gsmtp
+" in /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php:457
+Stack trace:
+#0 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(341): Swift_Transport_AbstractSmtpTransport->assertResponseCode('503 5.5.1 RCPT ...', Array)
+#1 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/EsmtpTransport.php(305): Swift_Transport_AbstractSmtpTransport->executeCommand('DATA\r\n', Array, Array, false, NULL)
+#2 /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php(390): Swift_Transport_EsmtpTransport->executeCommand('DATA\r\n', Array, Array)
+#3 /home/pn/public_html/co in /home/pn/public_html/control/APIs/SwiftMailer/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/AbstractSmtpTransport.php on line 457
+[03-Jun-2022 03:37:35 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:37 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:41 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:41 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:43 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:44 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:44 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:45 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:53 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:54 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:58 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:58 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:37:59 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:38:00 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:38:01 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:38:02 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:42:11 Asia/Baghdad] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/pn/public_html/control/classes/db.php on line 34
+[03-Jun-2022 03:42:11 Asia/Baghdad] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pn/public_html/control/template/html/temp/countries.php on line 6
+[03-Jun-2022 03:42:11 Asia/Baghdad] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pn/public_html/control/template/html/temp/countries.php on line 7
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/pn/public_html/control/classes/db.php on line 34
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pn/public_html/control/template/html/temp/countries.php on line 6
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pn/public_html/control/template/html/temp/countries.php on line 7
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_connect(): (HY000/1040): Too many connections in /home/pn/public_html/control/classes/db.php on line 34
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/pn/public_html/control/template/html/temp/countries.php on line 6
+[03-Jun-2022 03:42:13 Asia/Baghdad] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, null given in /home/pn/public_html/control/template/html/temp/countries.php on line 7
+[03-Jun-2022 03:47:36 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:47:38 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:24 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:33 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:35 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:37 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:43 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:49:44 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:25 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:35 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:39 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:41 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:44 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:50:47 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:51:32 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:51:45 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:52:47 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:52:58 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:53:47 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111
+[03-Jun-2022 03:53:53 Asia/Baghdad] PHP Warning:  htmlspecialchars() expects parameter 1 to be string, array given in /home/pn/public_html/control/core/functions.php on line 111

@@ -1,0 +1,16 @@
+.Ds_Store
+/control/APIs/SwiftMailer/vendor
+/control/APIs/SwiftMailer/composer.lock
+/control/APIs/GoogleAuthenticator/composer.lock
+/control/APIs/GoogleAuthenticator/vendor
+/control/apictures/*.jpg
+/control/apictures/*.png
+/control/dpictures/*.jpg
+/control/dpictures/*.png
+/control/files/*.pdf
+/control/lpictures/*.png
+/control/lpictures/*.jpg
+/control/ppictures/*.png
+/control/ppictures/*.jpg
+/control/qpictures/*.png
+/control/qpictures/*.jpg
